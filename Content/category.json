@@ -1,57 +1,57 @@
 {
     "title": "Izmir Sofistike Yerler Rehberi",
-    "description": "Izmir şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Izmir şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "izmir-sofistike-yerler-1",
-            "title": "Izmir Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Izmir şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "arkas-art-center-izmir",
+            "title": "Arkas Sanat Merkezi (Alsancak)",
+            "category_badge": "Klasik Sanat Müzesi",
+            "badge_icon": "fa-palette",
+            "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Eski Fransız Konsolosluğu binasında, uluslararası düzeyde usta ressamların eserlerine ev sahipliği yapan prestijli müze.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/arkas-sanat-merkezi",
+            "button_text": "Sergiyi Gez"
         },
         {
-            "id": "izmir-sofistike-yerler-2",
-            "title": "Izmir Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Izmir şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "urla-sarap-yolu-vineyards",
+            "title": "Urla Bağ Yolu & Butik Şarapçılık",
+            "category_badge": "Gastronomi Rotası",
+            "badge_icon": "fa-wine-bottle",
+            "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Michelin yeşil ve kırmızı yıldızlı restoranların yer aldığı, bağlar arasında yüksek gastronomi deneyimi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/urla-bag-yolu",
+            "button_text": "Bag Yolunu Keşfet"
         },
         {
-            "id": "izmir-sofistike-yerler-3",
-            "title": "Izmir Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Izmir şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "alacati-gazoza-butik-hotel",
+            "title": "Alaçatı Taş Konakları & Sanat Otelleri",
+            "category_badge": "Ege Mimarisi & Lüks",
+            "badge_icon": "fa-house-chimney",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Cumbalı taş evlerin bahçelerinde şef yemekleri, antikacılar ve sofistike akşamüstü sohbetleri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/alacati-tas-konaklar",
+            "button_text": "Konakları İncele"
         },
         {
-            "id": "izmir-sofistike-yerler-4",
-            "title": "Izmir Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
-            "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Izmir şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "izmir-sofistike-yerler-5",
-            "title": "Izmir Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "izmir-kulubu-kordon-lounge",
+            "title": "Kordon Boyu Private Lounge & Marina",
+            "category_badge": "Körfez Şıklığı",
+            "badge_icon": "fa-glass-water",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Izmir şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "İzmir Körfezi'nin imbat rüzgarına karşı gün batımını seyredeceğiniz lüks balık ve deniz restoranları.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/kordon-lounge",
+            "button_text": "Deneyimi Gör"
+        },
+        {
+            "id": "izmir-devlet-senfoni-orkestrasi",
+            "title": "Ahmed Adnan Saygun Sanat Merkezi (AASSM)",
+            "category_badge": "Akustik Başyapıt",
+            "badge_icon": "fa-music",
+            "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Türkiye'nin en iyi akustiğine sahip konser salonlarından birinde klasik müzik, caz ve opera gösterileri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-sofistike-yerler/aassm",
+            "button_text": "Konserleri Gör"
         }
     ]
 }
